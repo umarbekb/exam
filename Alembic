@@ -1,0 +1,3 @@
+Alembic, SQLAlchemy ORM (Object-Relational Mapping) kutubxonasini ishlatgan Python dasturlashda
+migratsiya jarayonlarini boshqarish uchun mo'ljallangan bir vosita hisoblanadi.
+Alembic orqali, ma'lumotlar bazasidagi jadvallarni yaratish, o'zgartirish va o'chirish jarayonlarini avtomatlashtirish mumkin.
